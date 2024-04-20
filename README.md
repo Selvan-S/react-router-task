@@ -2,7 +2,7 @@
 ## About
 This is an React Router Task. Built using React, and Tailwind CSS.
 
-- [Live Preview]()
+- [Live Preview](https://react-router-selvan.netlify.app/)
 
 ## Run
 Step 1:
