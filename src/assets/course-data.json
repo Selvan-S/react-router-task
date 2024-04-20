@@ -1,6 +1,6 @@
 [
   {
-    "imageUrl": "https://static.guvi.in/course-thumbnail/meanstackenglish.png",
+    "imageUrl": "https://i.imgur.com/2ajqAaC.png",
     "course-title": "MEAN Stack Course",
     "tag": "fsd",
     "price": "1499"
@@ -24,25 +24,25 @@
     "price": "2999"
   },
   {
-    "imageUrl": "https://static.guvi.in/course-thumbnail/ml.png",
+    "imageUrl": "https://cdn.pixabay.com/photo/2024/01/29/22/47/ai-generated-8540920_640.jpg",
     "course-title": "Machine Learning 101",
     "tag": "data-science",
     "price": "2499"
   },
   {
-    "imageUrl": "https://static.guvi.in/course-thumbnail/python.png",
+    "imageUrl": "https://cdn.pixabay.com/photo/2021/10/11/17/36/technology-6701404_640.jpg",
     "course-title": "Data Analytics Using Pandas",
     "tag": "data-science",
     "price": "1799"
   },
   {
-    "imageUrl": "https://static.guvi.in/course-thumbnail/data_science_with_r.png",
+    "imageUrl": "https://cdn.pixabay.com/photo/2018/05/08/08/44/artificial-intelligence-3382507_1280.jpg",
     "course-title": "Introduction to Datascience with R",
     "tag": "data-science",
     "price": "1799"
   },
   {
-    "imageUrl": "https://static.guvi.in/course-thumbnail/dark-web.png",
+    "imageUrl": "https://cdn.pixabay.com/photo/2017/01/01/14/39/hacker-1944688_640.jpg",
     "course-title": "Cyber Security & Ethical Hacking for Beginners",
     "tag": "cyber-security",
     "price": "1599"
