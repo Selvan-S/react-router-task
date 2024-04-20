@@ -1,0 +1,50 @@
+[
+  {
+    "imageUrl": "https://static.guvi.in/course-thumbnail/meanstackenglish.png",
+    "course-title": "MEAN Stack Course",
+    "tag": "fsd",
+    "price": "1499"
+  },
+  {
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/0*jPL0letjKGBXX9k2.png",
+    "course-title": "MERN Stack Course",
+    "tag": "fsd",
+    "price": "1299"
+  },
+  {
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/0*RCKYpm1OQHHX1EXV.jpg",
+    "course-title": "MEVN Stack Course",
+    "tag": "fsd",
+    "price": "1299"
+  },
+  {
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/0*_1iDpM8ji3eAywwM.jpeg",
+    "course-title": "PERN Stack Course",
+    "tag": "fsd",
+    "price": "2999"
+  },
+  {
+    "imageUrl": "https://static.guvi.in/course-thumbnail/ml.png",
+    "course-title": "Machine Learning 101",
+    "tag": "data-science",
+    "price": "2499"
+  },
+  {
+    "imageUrl": "https://static.guvi.in/course-thumbnail/python.png",
+    "course-title": "Data Analytics Using Pandas",
+    "tag": "data-science",
+    "price": "1799"
+  },
+  {
+    "imageUrl": "https://static.guvi.in/course-thumbnail/data_science_with_r.png",
+    "course-title": "Introduction to Datascience with R",
+    "tag": "data-science",
+    "price": "1799"
+  },
+  {
+    "imageUrl": "https://static.guvi.in/course-thumbnail/dark-web.png",
+    "course-title": "Cyber Security & Ethical Hacking for Beginners",
+    "tag": "cyber-security",
+    "price": "1599"
+  }
+]
