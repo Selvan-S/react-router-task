@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
@@ -8,16 +8,10 @@ import CyberSecurity from "./Components/CyberSecurity";
 import DataScience from "./Components/DataScience";
 import FullStackDevelopment from "./Components/FullStackDevelopment";
 import NavBar from "./Components/NavBar";
+import data from "./assets/course-data.json";
 
 function App() {
-  const [courseData, setCourseData] = useState([]);
-  useEffect(() => {
-    fetch("./course-data.json")
-      .then((res) => res.json())
-      .then((data) => {
-        setCourseData(data);
-      });
-  }, []);
+  const [courseData, setCourseData] = useState(data);
 
   return (
     <>
